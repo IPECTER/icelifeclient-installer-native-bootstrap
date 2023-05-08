@@ -3,8 +3,8 @@
 version = 3
 
 [[package]]
-name = "fabric-installer-native-bootstrap"
-version = "0.2.0"
+name = "bootstrap"
+version = "1.0.0"
 dependencies = [
  "windows",
  "winres",
